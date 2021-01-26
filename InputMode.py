@@ -1,0 +1,3 @@
+import inputbib
+
+inputbib.inputModeGraf ()
